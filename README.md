@@ -1,2 +1,3 @@
-# Top-5-League-Attacking-Statistic-Analysis
-Exploratory data analysis on attacking statistics from the top 5 leagues in world soccer.
+This project provides a data-driven comparison of attacking performance across Europe's top five soccer leagues: the Premier League (England), La Liga (Spain), Serie A (Italy), Bundesliga (Germany), and Ligue 1 (France).
+
+Using Jupyter Notebooks, the analysis focuses on league-wide attacking metrics such as expected goals (xG), chance creation, build up play, and efficiency. The objective is to highlight stylistic and statistical differences between the leagues, and explore what sets each competition apart in terms of offensive play. This project offers insights into how each league approaches the game from an attacking perspective.
